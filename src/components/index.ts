@@ -1,0 +1,7 @@
+export { default as Grid } from './grid'
+export { default as Numbers } from './numbers'
+export { default as NewGameButton } from './new-game-button'
+export { default as MainMenu } from './main-menu'
+export { default as GameBoard } from './game-board'
+export { default as Statistics } from './statistics'
+export * from './styles'
